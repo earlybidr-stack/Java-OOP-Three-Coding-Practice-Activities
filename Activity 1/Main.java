@@ -28,3 +28,4 @@ public class Main {
         System.out.println(mia.addCredits(4) + "; Mia: " + mia.getCredits() + ", Luis: " + luis.getCredits());
     }
 }
+// This is AI-ASSITED
